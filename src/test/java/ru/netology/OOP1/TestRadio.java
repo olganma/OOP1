@@ -1,3 +1,4 @@
+package ru.netology.OOP1;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
